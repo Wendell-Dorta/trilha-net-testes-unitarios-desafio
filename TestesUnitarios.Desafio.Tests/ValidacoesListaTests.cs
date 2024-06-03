@@ -54,6 +54,7 @@ namespace TestesUnitarios.Desafio.Console.Services
             // Arrange
             List<int> lista = new List<int> { 1, 2, 3, 4, 5 };
 
+
             // Act
             List<int> resultado = _validacoesLista.MultiplicarNumerosLista(lista, 2);
 
